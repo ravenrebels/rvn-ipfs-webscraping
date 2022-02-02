@@ -1,0 +1,18 @@
+{
+  "name": "rvn-ipfs-webscraping",
+  "version": "1.0.0",
+  "description": "PoC, Ravencoin + IPFS + web scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dick H Larsson",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.25.0",
+    "ipfs-http-client": "^56.0.0",
+    "puppeteer": "^13.1.3"
+  }
+}
